@@ -1,11 +1,17 @@
 # datathon-spring-2021
 Code for Citadel Datathon Spring 2021
 
+# TODO
+Look at disruptions in economy due to lockdown orders (which ones cause the most economic damage?)
+
 # Brainstorming
 Get effectiveness of each type of government intervention (school lockdown order, restuarant close, etc.)
 Compare with economic effect? jobless claims?
 
 # Links
 ## Datasets
-https://oui.doleta.gov/unemploy/claims.asp
-https://www.nature.com/articles/s41597-020-00609-9#Sec3
+Jobless claims in USA: https://oui.doleta.gov/unemploy/claims.asp
+
+Data of government interventions: https://www.nature.com/articles/s41597-020-00609-9#Sec3
+
+Ranking effectiveness of government interventions: https://www.medrxiv.org/content/10.1101/2020.07.06.20147199v2.full.pdf
