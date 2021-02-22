@@ -1,5 +1,7 @@
 # datathon-spring-2021
-Code for Citadel Datathon Spring 2021
+Code for Citadel West Coast Regional Datathon Spring 2021
+
+2021 Feburary 21
 
 # TODO
 Look at disruptions in economy due to lockdown orders (which ones cause the most economic damage?)
