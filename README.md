@@ -1,5 +1,6 @@
-# datathon-spring-2021
-Code for Citadel West Coast Regional Datathon Spring 2021
+# Citadel West Coast Regional Datathon Spring 2021
+## Ming Fong, Seunghwan Lim, Peida Tian
+Code and report for Citadel West Coast Regional Datathon Spring 2021
 
 2021 Feburary 21
 
