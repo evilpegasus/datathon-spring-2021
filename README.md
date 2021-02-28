@@ -1,8 +1,11 @@
 # Citadel West Coast Regional Datathon Spring 2021
 ## Ming Fong, Seunghwan Lim, Peida Tian
-Code and report for Citadel West Coast Regional Datathon Spring 2021
+Code and report for the Citadel West Coast Regional Datathon Spring 2021
 
 2021 Feburary 21
+
+# Final Report
+The final report can be found at [datathon_spring_2021.pdf](datathon_spring_2021.pdf)
 
 # TODO
 Look at disruptions in economy due to lockdown orders (which ones cause the most economic damage?)
